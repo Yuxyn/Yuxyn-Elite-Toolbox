@@ -1,7 +1,7 @@
 # 💀 YUXYN ELITE TOOLBOX v16.0 💀
 
-![Cyber Banner](https://raw.githubusercontent.com/Yuxyn/Yuxyn-Elite-Toolbox/main/banner.png) 
-*Not: Eğer kendi logon varsa adını banner.png yapıp klasöre atman yeterli.*
+!(https://raw.githubusercontent.com/Yuxyn/Yuxyn-Elite-Toolbox/main/banner.png) 
+
 
 ---
 
@@ -32,3 +32,6 @@ Terminali açın ve şu komutu yazın:
 ```bash
 git clone [https://github.com/Yuxyn/Yuxyn-Elite-Toolbox.git](https://github.com/Yuxyn/Yuxyn-Elite-Toolbox.git)
 cd Yuxyn-Elite-Toolbox
+
+
+<img width="1078" height="445" alt="image" src="https://github.com/user-attachments/assets/97f7383f-49ec-41ca-a831-c8b53d790081" />
